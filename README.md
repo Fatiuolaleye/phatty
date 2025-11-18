@@ -1,7 +1,7 @@
 
-# Project Title
+# AI Urban Traffic Optimizer
 
-AI Urban Traffic Optimizer
+
 
 ## Summary
 
